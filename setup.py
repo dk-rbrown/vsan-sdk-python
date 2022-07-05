@@ -30,8 +30,8 @@ setup(
         'src/vsaniscsisamples',
     ],
     install_requires=[
-        'defusedxml'
-        'wheel'
+        'defusedxml',
+        'wheel',
         'pyvmomi >= 7.0.3',
     ]
 )
