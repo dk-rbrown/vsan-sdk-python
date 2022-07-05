@@ -32,6 +32,6 @@ setup(
     install_requires=[
         'defusedxml',
         'wheel',
-        'pyvmomi >= 7.0.3',
+        'pyvmomi',
     ]
 )
